@@ -1,4 +1,4 @@
-## Olá, meu nome é Fernando Fagundes 👋
+## Hi, my name is Fernando Fagundes 👋
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandofagundes348&theme=dracula"></img>
