@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Olá, sou o Fernando Fagundes! 👋</h1>
   
   <p>Sou um entusiasta apaixonado por tecnologia, em constante busca por aprimoramento para me destacar como um profissional de destaque no desenvolvimento de sistemas. Minha jornada é impulsionada pela paixão por criar soluções inovadoras e impactantes que tornem a vida das pessoas mais fácil e eficiente</p>
